@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Kusanagi;
+  src: url(/fonts/Kusanagi.otf);
+}
+
+body {
+  background: black;
+}
+
+.footer-div-radius {
+  border-radius: 0px 0px 5.7px 5.7px;
+}
+
+.CA-div {
+  fill: rgba(217, 217, 217, 0.06);
+
+  stroke-width: 1px;
+  stroke: #595a5a;
+
+  backdrop-filter: blur(5.800000190734863px);
+}
+
+.roadmap-shadow {
+  box-shadow: #6b20cd;
+}
+
+.waghera {
+  background: linear-gradient(
+    90deg,
+    #805cf934 1.55%,
+    rgba(76, 54, 147, 0) 94.83%
+  );
+}
