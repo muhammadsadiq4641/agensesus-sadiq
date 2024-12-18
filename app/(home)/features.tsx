@@ -96,7 +96,7 @@ const Features = () => {
                 Smart Contracts
               </h4>
               <p className="text-white text-base font-medium ">
-                //Lorem ipsum dolor sit
+                Lorem ipsum dolor sit
               </p>
               <p className="text-white text-sm ">
                 Leverage self-executing smart contracts for secure and automated
@@ -148,7 +148,7 @@ const Features = () => {
                 Smart Contracts
               </h4>
               <p className="text-white text-sm font-medium">
-                //Lorem ipsum dolor sit{" "}
+                Lorem ipsum dolor sit{" "}
               </p>
               <p className="text-white text-xs">
                 Leverage self-executing smart contracts for secure and automated
@@ -200,7 +200,7 @@ const Features = () => {
                 Smart Contracts
               </h4>
               <p className="text-white text-sm font-medium">
-                //Lorem ipsum dolor sit{" "}
+                Lorem ipsum dolor sit{" "}
               </p>
               <p className="text-white text-xs">
                 Leverage self-executing smart contracts for secure and automated
@@ -252,7 +252,7 @@ const Features = () => {
                 Smart Contracts
               </h4>
               <p className="text-white text-sm font-medium">
-                //Lorem ipsum dolor sit{" "}
+                Lorem ipsum dolor sit{" "}
               </p>
               <p className="text-white text-xs">
                 Leverage self-executing smart contracts for secure and automated
@@ -304,7 +304,7 @@ const Features = () => {
                 Smart Contracts
               </h4>
               <p className="text-white text-sm font-medium">
-                //Lorem ipsum dolor sit{" "}
+                Lorem ipsum dolor sit{" "}
               </p>
               <p className="text-white text-xs">
                 Leverage self-executing smart contracts for secure and automated
@@ -356,7 +356,7 @@ const Features = () => {
                 Smart Contracts
               </h4>
               <p className="text-white text-sm font-medium">
-                //Lorem ipsum dolor sit{" "}
+                Lorem ipsum dolor sit{" "}
               </p>
               <p className="text-white text-xs">
                 Leverage self-executing smart contracts for secure and automated
